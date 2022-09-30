@@ -1,2 +1,15 @@
-# react-cocktailss-website
-basic website that fetches data from external api and renders it using react
+#### React Router Fix
+
+(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+
+#### CRA Fix
+
+```
+
+"build": "CI= react-scripts build",
+
+```
+
+```sh
+npm install react-router-dom@6
+```
